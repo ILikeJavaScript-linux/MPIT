@@ -24,4 +24,9 @@ MPIT (Matrixis Package Installation Tool) Is a PM made on my phone and a part of
 9. Compile the buildroot by 'make' or 'make -j$(nproc)' but carefully on your system!
 10. Have fun!
 
+# Update Logs
+![version](https://img.shields.io/badge/version-1.0.0-green)
+First Release of MPIT!
+
+# IMPORTANT NOTE!!!
 !!! THIS IS AN ALPHA SO EXPECT BIG ERRORS !!!
