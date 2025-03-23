@@ -2,7 +2,7 @@
 ![matrixis_logo](Matrixis_20250323153412.png)
 
 # MPIT
-MPIT (Matrixis Package Installation Tool) Is a PM made on my phone and a part of upcoming distro named Matrixis. This package is for buildroot only
+MPIT (Matrixis Package Installation Tool) Is a PM made on my phone and a part of upcoming distro named Matrixis. This package is for buildroot only. This package manager can install packages
 
 # Usage : (sudo) mpit --arg package_name
 
@@ -25,7 +25,8 @@ MPIT (Matrixis Package Installation Tool) Is a PM made on my phone and a part of
 10. Have fun!
 
 # Update Logs
-![version](https://img.shields.io/badge/version-1.0.0-green)
+![version](https://img.shields.io/badge/Version-1.0.0-crimson)
+
 First Release of MPIT!
 
 # IMPORTANT NOTE!!!
