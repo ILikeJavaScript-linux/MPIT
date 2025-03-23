@@ -1,0 +1,9 @@
+config BR2_PACKAGE_MPIT
+    bool "mpit"
+    help
+      MPIT (Matrixis Package Installation Tool) is a lightweight and user-friendly tool for managing packages in custom Linux distributions like Matrixis.
+
+      Features:
+      - Install packages.
+      - Update packages.
+      - Support for custom repositories.
