@@ -12,7 +12,7 @@ RESET="\033[0m"
 BUILDROOT_DIR="$(pwd)"
 CONFIG_FILE="$BUILDROOT_DIR/.config"
 
-function get_help() {
+function get_help() {s
     echo -e "Usage: $YELLOW mpit [argument|--install] [-h|--help] [-v|--version] $RESET"
     echo -e "$GREEN  -i, --install <package>  Install a package $RESET"
     echo -e "$GREEN  -h, --help               Get some help $RESET"
