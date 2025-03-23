@@ -10,7 +10,6 @@ Usage : (sudo) mpit --arg package_name
 [-v --version] version
 
 #Matrixis
-![Matrixis_logo](matrixis.png)
 
 
 
